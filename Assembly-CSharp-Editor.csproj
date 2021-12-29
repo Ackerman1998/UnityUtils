@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UnityGameUtils\GameSave\Editor\ExcelEditor.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\Editor\MultilingualExcel.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/Unity2019.4.14f1/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

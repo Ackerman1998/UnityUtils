@@ -66,9 +66,15 @@
   <ItemGroup>
     <Compile Include="Assets\UnityGameUtils\Com\MonoSingleton.cs" />
     <Compile Include="Assets\UnityGameUtils\Com\ResourceManager.cs" />
+    <Compile Include="Assets\UnityGameUtils\GameSave\ExcelClass\RoleConfig.cs" />
+    <Compile Include="Assets\UnityGameUtils\GameSave\ExcelData.cs" />
+    <Compile Include="Assets\UnityGameUtils\GameSave\FileTool.cs" />
+    <Compile Include="Assets\UnityGameUtils\GameSave\GameRoot.cs" />
+    <Compile Include="Assets\UnityGameUtils\GameSave\LocalData.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\LanguageManager.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\Multilingual.SerializableData.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\TestMultilingual.cs" />
+    <Compile Include="Assets\UnityGameUtils\Tools\BezierCurves.cs" />
     <None Include="Assets\UnityGameUtils\Multilingual\Resources\GameText.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity/Unity2019.4.14f1/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
