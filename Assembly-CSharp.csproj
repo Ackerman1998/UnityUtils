@@ -79,6 +79,7 @@
     <Compile Include="Assets\UnityGameUtils\Multilingual\LanguageManager.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\Multilingual.SerializableData.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\TestMultilingual.cs" />
+    <Compile Include="Assets\UnityGameUtils\ScrollUI\ScrollUI.cs" />
     <Compile Include="Assets\UnityGameUtils\Tools\BezierCurves.cs" />
     <Compile Include="Assets\UnityGameUtils\UI\ActionUIBase.cs" />
     <Compile Include="Assets\UnityGameUtils\UI\CSharpExtension.cs" />

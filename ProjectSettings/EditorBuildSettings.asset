@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityGameUtils/GameSave/GameSaveExampleScene.unity
+    guid: 3662b60fca91eb0459fa4db748717d38
+  - enabled: 1
+    path: Assets/UnityGameUtils/Multilingual/MultilingualExampleScene.unity
+    guid: a00b45b4173d5364bb1104365a1041ec
+  - enabled: 1
+    path: Assets/UnityGameUtils/UI/UIExampleScene.unity
+    guid: f296ee97afb7ce348bf1208c35751b77
+  - enabled: 1
+    path: Assets/UnityGameUtils/ScrollUI/ScrollUIScene.unity
+    guid: bc1bca2384d7fdb4682d7fc4152e9793
   m_configObjects: {}
