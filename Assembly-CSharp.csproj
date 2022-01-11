@@ -76,6 +76,9 @@
     <Compile Include="Assets\UnityGameUtils\GameSave\FileTool.cs" />
     <Compile Include="Assets\UnityGameUtils\GameSave\GameRoot.cs" />
     <Compile Include="Assets\UnityGameUtils\GameSave\LocalData.cs" />
+    <Compile Include="Assets\UnityGameUtils\Guidance\GuidanceEventPenetrate.cs" />
+    <Compile Include="Assets\UnityGameUtils\Guidance\RectGuidance.cs" />
+    <Compile Include="Assets\UnityGameUtils\Guidance\TestGuide.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\LanguageManager.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\Multilingual.SerializableData.cs" />
     <Compile Include="Assets\UnityGameUtils\Multilingual\TestMultilingual.cs" />
@@ -92,6 +95,7 @@
     <Compile Include="Assets\UnityGameUtils\UI\UIGenScripts\SamplePanel.Attribute.cs" />
     <Compile Include="Assets\UnityGameUtils\UI\UIGenScripts\SamplePanel.cs" />
     <Compile Include="Assets\UnityGameUtils\UI\UIManager.cs" />
+    <None Include="Assets\UnityGameUtils\Guidance\RectGuidanceShader.shader" />
     <None Include="Assets\UnityGameUtils\Multilingual\Resources\GameText.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Unity2019.4.14.f1e1/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

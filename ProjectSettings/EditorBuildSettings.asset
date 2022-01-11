@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UnityGameUtils/ScrollUI/ScrollUIScene.unity
     guid: bc1bca2384d7fdb4682d7fc4152e9793
+  - enabled: 1
+    path: Assets/UnityGameUtils/Guidance/GuideSampleScene.unity
+    guid: 0ad208f40e3d485408deb0e85d4ba9ee
   m_configObjects: {}
