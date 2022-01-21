@@ -1,0 +1,10 @@
+1.download probuf-net package
+https://github.com/protobuf-net/protobuf-net
+2.open protogen folder ，build and generate protogen.exe
+3.copy bin/Debug/netcore/ to your target folder
+4.write proto file
+5.generate csharp file
+cmd open content
+gen csharp code:
+C:\Users\Administrator\Desktop\protoc\bin>protoc ClientData.proto --csharp_out=./
+6.click start.dat for generate file
